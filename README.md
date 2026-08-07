@@ -2,6 +2,8 @@
 
 How to insert: 
 
+Press code, press download zip.
+
 Go inside zip (if you downloaded it as a zip), 
 
 Go to the main folder, press JSS.zip (or something similar), 
