@@ -1,4 +1,6 @@
-#ASFSMOD Introduce Johns Solar System (Short for JSS, other name : Plane Change), a expanse galaxy with stars, and exoplanets, unique destinations, and many more!
+An SFS mod
+
+Introduce Johns Solar System (Short for JSS, other name : Plane Change), a expanse galaxy with stars, and exoplanets, unique destinations, and many more!
 
 How to insert: 
 
