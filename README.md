@@ -15,3 +15,5 @@ Press the folder named JSS V.5.0.0 (or has JSS in its name whatever), right clic
 Changelog : Added Alpha centauri (a and b) plus proxima centauri, star Vega with its debris disk.
 Systems (currently) : Sun, Alpha Centauri, Tau ceti, vega, trappist-1, j1407, vela pulsar.
 
+When travelling interstellar distances, your game may...crash, well, use the games inbuilt quicksaves feature, so that you dont lose your progress.
+Farwell.
