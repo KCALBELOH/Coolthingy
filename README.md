@@ -1,6 +1,6 @@
-An SFS mod
+An SFS planet pack.
 
-Introduce Johns Solar System (Short for JSS, other name : Plane Change), a expanse galaxy with stars, and exoplanets, unique destinations, and many more!
+Introduce Johns Solar System (Short for JSS, other name : Plane Change), a expanse galaxy with stars, and exoplanets, unique destinations, and many more! Scales are 10 times smaller than real life, But, eccentricity, etc, is accurate, or halfly accurate, There are fictional, hypothetical planets here, and even ones you never seen before.
 
 How to insert: 
 
