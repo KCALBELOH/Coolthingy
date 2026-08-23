@@ -6,5 +6,8 @@ v.5.6.5 : Visual enhancing part 3 and rest of TRAPPIST-1 planets.
 v.5.6.5 : visual enhancing part 4 and Nessus, Pholus (Centaurs).
 v.5.7.0 : Galatea, Larissa (small moons of neptune), Salacia-Actaea (Dwarf planet and its moon).
 v.5.7.5 : More day cycles, and retrograde (backwards moving) clouds.
-v.5.8.0 : Ryugu, Work on Realistic mode for JSS, up to v.6.0.0.
+v.5.8.0 : Ryugu, apophis, Work on Realistic mode for JSS, up to v.6.0.0.
 v.5.8.5 to v.6.0.0 : JSS Realistic mode (accurate diameters ; semi major axis will be 6:10, hypothetical and real planets only)
+v.6.0.5 : Additional replacements for fictional objects in realistic mode :
+Nibiru, 2020 cd3, 2010 tk7, Tyche, Planet 10, vulcan.
+v.6.1.0 : rework on day cycle
