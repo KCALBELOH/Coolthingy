@@ -14,5 +14,5 @@ Press the folder named Plane Change / JSS, right click it and copy it, Go to ste
 Changelog : Added Alpha centauri (a and b) plus proxima centauri, star Vega with its debris disk.
 Systems (currently) : Sun, Alpha Centauri, Tau ceti, vega, trappist-1, j1407, vela pulsar.
 
-When travelling interstellar distances, your game may...crash, well, use the games inbuilt quicksaves feature, so that you dont lose your progress.
-Farwell.
+When travelling interstellar distances, your game may...crash, well, use the games inbuilt quicksaves feature, so that you dont lose your progress. Oh, and dont leave yet, Delta v map is on releases.
+And so, Farwell.
