@@ -11,7 +11,7 @@ Go to the main folder, press JSS.zip (or something similar),
 
 Press the folder named Plane Change / JSS, right click it and copy it, Go to steam, press Browse files on Gear button, press Spaceflight Simulator_data, press Custom Solar Systems, Put the copied folder here, done!
 
-Changelog : Added uranian irregular moon, Sycorax, and pandora, earlier was added 3 Jovian inner moons, jovian just means (jupiter).
+Changelog : Added uranian irregular moon, Sycorax, and pandora moon of saturn, earlier was added 3 Jovian inner moons, jovian just means (jupiter).
 <img width="636" height="704" alt="ijm" src="https://github.com/user-attachments/assets/a9334bd5-9a58-41c8-903f-beee390fe4d6" />
 
 
